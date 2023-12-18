@@ -24,8 +24,8 @@ Depois de clonar o repositorio, acesse o directorio da ferramenta digitando o co
 
 **$ cd RAY-GET-1.0**
 
-Estand no directorio para instalar todas as dependencias do RAY-GET 1.0 para distribuições baseadas em Debian
-Rode o debain_setup_user.sh
+Estando dentro directorio para instalar todas as dependencias do RAY-GET 1.0 para distribuições baseadas em Debian
+execute o seguinte comando
 
 **$ bash debain_setup_user.sh**
 
