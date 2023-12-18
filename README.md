@@ -4,23 +4,23 @@ Ray-GET é um framework de pentest web, com diversos módulos de exploração e 
 
 
 
-*Instalação*
+**Instalação**
 
-*Distribuições baseadas em Debian*
+**Distribuições baseadas em Debian**
 
 Para instalar todas as dependencias do RAY-GET 1.0 para distribuições baseadas em Debian
 Rode o debain_setup_user.sh
 
-bash debain_setup_user.sh
+**$ bash debain_setup_user.sh**
 
 Para usuario root, rode o comando a baixo
 
-debian_setup_root.sh
+**$ debian_setup_root.sh**
 
-*Termux (Mobile aplication)*
+**Termux (Mobile aplication)**
 
 Para instalar todas as dependencias do RAY-GET 1.0 para Termux, rode o comando a baixo
 
-bash termuX_mobile_aplication.sh
+**$ bash termuX_mobile_aplication.sh**
 
-*Use seus conhecimentos de forma ética e moral*
+**Use seus conhecimentos de forma ética e moral**
