@@ -1,9 +1,10 @@
 apt update
 pkg install git -y
 pkg install python3 -y
-pkg install python3-mechanize -y
-pkg install python3-requests -y
-pkg install python3-bs4 -y
+pkg install python-pip
+pip install mechanize -y
+pip install requests -y
+pip install bs4 -y
 pkg install figlet -y
 chmod 777 ray-get.sh
 sleep 2
