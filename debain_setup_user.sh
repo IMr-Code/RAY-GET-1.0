@@ -1,9 +1,9 @@
 sudo apt update
 sudo apt install git -y
 sudo apt install python3 -y
-sudo apt install python3-mechanize
-sudo apt install python3-requests
-sudo apt install python3-bs4
+sudo apt install python3-mechanize -y
+sudo apt install python3-requests -y
+sudo apt install python3-bs4 -y
 git clone https://github.com/CalebMarcelino/RAY-GET-1.0.git
 chmod 777 ray-get.sh
 sleep 2
