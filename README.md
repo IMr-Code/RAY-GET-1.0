@@ -1,5 +1,7 @@
 **RAY GET 1.0**
 
+*Desenvolvedor:* **Caleb Marcelino (Mr Code)**
+
 Ray-GET é um framework de pentest web, com diversos módulos de exploração e invasão de mídias sociais, clonagem de sites, ataques de phishing, brute force de login, brute force de diretório e diversos tipos de ataques. Lembre-se de que esta é apenas a versão 1.0 da ferramenta e é possível que não tenha todos os módulos disponíveis.
 
 
