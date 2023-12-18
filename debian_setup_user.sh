@@ -1,6 +1,7 @@
 sudo apt update
 sudo apt install git -y
 sudo apt install python3 -y
+sudo apt install figlet -y
 sudo apt install python3-mechanize -y
 sudo apt install python3-requests -y
 sudo apt install python3-bs4 -y
