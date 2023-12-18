@@ -3,6 +3,7 @@ apt install git -y
 apt install python3 -y
 apt install python3-mechanize -y
 apt install python3-requests -y
+apt install figlet -y
 apt install python3-bs4 -y
 chmod 777 ray-get.sh
 sleep 2
