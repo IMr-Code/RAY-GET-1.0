@@ -12,28 +12,54 @@ Ray-GET é um framework de pentest web, com diversos módulos de exploração e 
 
 Instale primeiramente o git
 
-
 **$ sudo apt install git -y**
 ou
 **apt install git -y**
 
-Para instalar todas as dependencias do RAY-GET 1.0 para distribuições baseadas em Debian
+Depois de instalar o git, clone o repositorio da ferramenta digitando o comando a baixo
+
+**git clone https://github.com/CalebMarcelino/RAY-GET-1.0.git**
+
+Depois de clonar o repositorio, acesse o directorio da ferramenta digitando o comando a baixo:
+
+**$ cd RAY-GET-1.0**
+
+Estand no directorio para instalar todas as dependencias do RAY-GET 1.0 para distribuições baseadas em Debian
 Rode o debain_setup_user.sh
 
 **$ bash debain_setup_user.sh**
 
 Para usuario root, rode o comando a baixo
 
-**$ debian_setup_root.sh**
+**$ bash debian_setup_root.sh**
 
-**Termux (Mobile aplication)**
+Depois de instalar todas as dependencias você não precisa rodar o comando novamente
+Simplesmente precisa rodar a ferramenta digitando o comando
 
-Instale o git primeiramente
+**$ bash ray-get-sh**
+
+Pronto... aproveite a versão 1.0 da ferramenta e aguarde por novas actualizações
+
+**------------------------------------------------------------------------------------------------------**
+
+**Instalação para Termux (Mobile aplication)**
+
+Instale o git primeiramente 
 
 **$ pkg install git**
+
+Agora clone o repositorio da Ferramenta digitando o comando a baixo
+
+**$ git clone  https://github.com/CalebMarcelino/RAY-GET-1.0.git**
 
 Para instalar todas as dependencias do RAY-GET 1.0 para Termux, rode o comando a baixo
 
 **$ bash termux_mobile_aplication.sh**
+
+Depois de instalar todas as dependencias você não precisa rodar o comando novamente
+Simplesmente precisa rodar a ferramenta digitando o comando
+
+**$ bash ray-get-sh**
+
 
 **Use seus conhecimentos de forma ética e moral**
