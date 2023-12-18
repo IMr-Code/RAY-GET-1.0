@@ -11,7 +11,7 @@ echo ""
 echo ""
 echo ""
 echo "Todas as dependencias forão instaladas corretamente, não precisa rodar esse script novamente"
-echo "Rode o comando o seguinte comando para iniciar a ferramenta "
+echo "Rode o seguinte comando para iniciar a ferramenta "
 echo ""
 echo "bash ray-get.sh"
 
