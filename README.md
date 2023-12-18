@@ -21,6 +21,6 @@ Para usuario root, rode o comando a baixo
 
 Para instalar todas as dependencias do RAY-GET 1.0 para Termux, rode o comando a baixo
 
-**$ bash termuX_mobile_aplication.sh**
+**$ bash termux_mobile_aplication.sh**
 
 **Use seus conhecimentos de forma ética e moral**
