@@ -1,6 +1,6 @@
 **RAY GET 1.0**
 
-*Desenvolvedor:* **Caleb Marcelino (Mr Code)**
+*Desenvolvedor:* **IMr Code**
 
 Ray-GET é um framework de pentest web, com diversos módulos de exploração e invasão de mídias sociais, clonagem de sites, ataques de phishing, brute force de login, brute force de diretório e diversos tipos de ataques. Lembre-se de que esta é apenas a versão 1.0 da ferramenta e é possível que não tenha todos os módulos disponíveis.
 
@@ -18,7 +18,7 @@ ou
 
 Depois de instalar o git, clone o repositorio da ferramenta digitando o comando a baixo
 
-**git clone https://github.com/CalebMarcelino/RAY-GET-1.0.git**
+**git clone https://github.com/IMr-Code/RAY-GET-1.0.git**
 
 Depois de clonar o repositorio, acesse o directorio da ferramenta digitando o comando a baixo:
 
